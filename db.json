@@ -1,25 +1,11 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive",
+      "message": "Changed network card on #007",
       "attention": false,
-      "date": "03-02-2021",
-      "tech": "Sam Smith"
-    },
-    {
-      "id": 2,
-      "message": "Workstation not posting",
-      "attention": true,
-      "date": "04-02-2021",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Changedmemory on 05 st",
-      "attention": false,
-      "date": "05-02-2021",
-      "tech": "Sara Wilson"
+      "tech": "Sam Smith",
+      "date": "2022-01-18T11:02:10.562Z",
+      "id": 1
     }
   ],
   "techs": [
